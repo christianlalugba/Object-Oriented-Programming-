@@ -57,8 +57,29 @@ MINI LIBRARY MANAGEMENT SYSTEM
 5. Exit
 
 
-Option 2: Run Tests
+#Option 2: Run Tests
 To verify your code works correctly, run:
 python tests.py
+
+#Key Features
+Add, search, update, and delete books
+Add and manage members
+Borrow and return books with validation
+Prevent duplicate IDs and ISBNs
+Data organized using clean data structure
+
+#Example Output
+Added book: Python Basics by John Doe
+Added member: Alice Johnson
+Book borrowed successfully!
+Book returned successfully!
+
+#Developer
+Name: Christian Julius Lalugba
+Email: rectorchristianlalugba@gmail.com
+Institution: Limkokwing University of Creative Technology – Sierra Leone
+Year: 2025
 If all assertions pass, no error message will appear.
+
+
 
